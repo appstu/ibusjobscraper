@@ -35,36 +35,38 @@ Write PHP scraper which:
    ```
 
 - If you need to change the job URL or the storage for scraped data - set it as parameters in config.yml or params.yml
-```
-parameters:
-    jobs_url: http://www.ibusmedia.com/career.htm
-    jobs_storage: '%kernel.project_dir%/var/storage'
-```
+    ```
+    parameters:
+        jobs_url: http://www.ibusmedia.com/career.htm
+        jobs_storage: '%kernel.project_dir%/var/storage'
+    ```
 
 - For API endpoint to work you need to configure the site on your web server of choice
-   & set the document root to %kernel.project_dir%/web/
+   & set the document root to `%kernel.project_dir%/web/`
 
 
 ### Running 
 
 Scraper can be run as 
 - standalone
-    `php bin/console app:scrape-jobs`
+
+  `php bin/console app:scrape-jobs`
+
 - or by adding the same command line to cron jobs
  
 Validator can be run by
-    `php bin/console app:validate-json`
+
+   `php bin/console app:validate-json`
     
 ### API     
 
 If set up correctly the API endpoint returning the full scraped data
 is available:
-
     `%base_url%/api/jobs/list`
     
 It returns JSON array of objects:
 
-     ```
+ 
      [
         {
             "title":"Business Development Manager",
@@ -75,4 +77,4 @@ It returns JSON array of objects:
         },
      ...
      ]
-     ```
+ 
