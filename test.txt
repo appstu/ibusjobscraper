@@ -1,0 +1,407 @@
+Job Scraper
+===========
+
+Content retrieved.
+Array
+(
+    [0] => stdClass Object
+        (
+            [title] => Business Development Manager
+            [location] => Barcelona, Spain
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=e30da088-71b9-4598-9680-4644f6abf664
+            [date] => 20 February 2018
+            [description] => We are looking for a Business Development Manager to join our Barcelona Office and assist us in growing our Content Marketing and Outreach department. The Business Development Manager will work to retain and expand current accounts as well as diversify our current client portfolio. The successful candidate will possess a deep understanding of B2B sales and Content Marketing and how it is applied to improving search engine visibility today.The main duties and responsibilities include but are not limited to:Prospect for potential new clients and business leads in B2B segment.Cold call as needed within your market or geographic area to ensure a robust pipeline of opportunities. Meet potential clients by growing, maintaining, and leveraging our and your network.Identify potential clients and the decision makers within the client’s organization.Research and build relationships with new clients. Set up meetings between client decision makers and company practice leaders/Principals.Plan approaches and pitches. Work with the current team to develop proposals that speak to the client’s needs, concerns, and objectives.Handle objections by clarifying, emphasizing agreements and working through differences to a positive conclusion.Use a variety of styles to persuade or negotiate appropriately.Present new products and services and enhance existing relationships.Work with technical staff and other internal colleagues to meet customer needs.Arrange and participate in internal and external client debriefs.Attend industry functions, such as association events and conferences, and provide feedback and information on market and creative trends.Present to and consult with mid and senior level management on business trends with a view to developing new services, products, and distribution channels.Identify opportunities for campaigns, services, and distribution channels that will lead to an increase in sales.Use market knowledge and competitors to identify and develop the company’s unique selling propositions and differentiators.Requirements:3-5 years in B2B sales and digital marketing experience. Previous experience in B2B sales of service in the area of digital marketing.A relevant bachelor's degree would be considered as an advantage.We offer:Fully equipped open-space.Semi-flexible working hours.Learning opportunities, professional development.Competitive salary.
+        )
+
+    [1] => stdClass Object
+        (
+            [title] => RELIABLE CONTENT WRITERS WANTED
+            [location] => Remote
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=6c226a47-b84a-44c7-86dd-2caf6811c981
+            [date] => 20 February 2018
+            [description] => iBus Media - one of the world's leading companies in iGaming industry is currently looking for freelance content providers. You will be asked to write 500-700 word articles for different websites and topics. 
+
+What we’re looking for is speed, dependability and high attention to detail. We need experienced writers who know how to create web articles on various topics, format them properly, and include high quality internal and external links.
+
+Positions are available within the following languages: Portuguese (Portugal), German, French, Norwegian and Romanian. We also look for the high volume writers in Finnish language, that could cake on 30-70 articles a month.
+
+If you have solid writing/editing skills, please get in touch! SEO
+knowledge is an asset. 
+
+Interested? Don’t hesitate to send your application to daiva.juskiene@ibusmedia.com. Job Type: Part Time
+	Department:
+	Content
+        )
+
+    [2] => stdClass Object
+        (
+            [title] => SEO Manager
+            [location] => Vilnius
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=e913e6bd-205f-4f71-84dd-27106c3e5e24
+            [date] => 14 March 2018
+            [description] => iBus Media is looking for a SEO Manager who will be able to develop and drive the Search Engine Optimization (SEO) within the organisation and partners with internal and external teams to achieve results. Responsibilities:        Understand both on-site and
+off-site SEO practices;        
+Develop and execute SEO
+strategies and campaigns;        Ability to create a keyword
+platform / semantic core for a new project;        Ability to analyse and sort big
+amounts of data;        Ability to identify the value
+of internet asset;        Develop and execute
+link-building activities;        
+Perform regular SEO analysis,
+present recommendations for optimization of content and architecture and
+implement in cooperation with web development and country managers;        Monitor and report on progress
+and developments for sites;        
+Cooperate with co-workers and
+external partners to ensure SEO best practices are met. Requirements:        Passionate about SEO and
+Digital Marketing;        Detailed understanding of SEO
+principles and guidelines required;        Experience with various SEO
+tools;        Must have hands on previous
+experience. Experience cannot be limited to working through an agency;        
+Great understanding of website
+architecture;        
+Follow industry news and ready
+to implement new practices for ongoing projects;        
+Ready to take risks and
+responsibilities for your decisions;        Skill with computers and
+proficiency in Microsoft Windows, Word and Excel required;        
+A fluent level of verbal and
+written English skills is expected;        
+Analytical thinking. About iBus Media  iBus Media is an
+international company with a true modern day philosophy which publishes
+websites in more than 26 different languages, and caters to an audience of over
+40m annually. Based in the Isle of Man
+with offices in Barcelona, Vilnius, and London, iBus Media is a leader in
+the online poker news and reporting, sports betting, and casino verticals.  Its premier website, PokerNews.com, produces fresh content daily from
+operations in almost 30 countries and
+continues to be the best and most trusted source of content for poker players,
+enthusiasts, and key-operators in the gambling industry. iBus Media has also
+branched out into other verticals covering sports, online casinos, and more
+bringing the attention to detail that has always characterized PokerNews to a whole new
+audience of sports fans, sports betting enthusiasts, and casino lovers.   
+	Department:
+	B2B
+        )
+
+    [3] => stdClass Object
+        (
+            [title] => PHP Developer
+            [location] => Vilnius
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=821ea5a4-4a3f-4f0a-a683-2ca1ff9a71b0
+            [date] => 23 March 2018
+            [description] => iBus Media LT is looking for an experienced PHP developer who wants to join a team that works on and develops in-house web-based projects, mobile apps and data analytics systems in realms including, but not limited to: poker, sports and online affiliates. As a team member, you will be responsible for the development of new and support of existing features, modernising codebase in accordance with state-of-art technology. For the position, you should be comfortable with:Symfony 3-4, Doctrine ORM, Guzzle, third party integrations (APIs).Reading and understanding unfamiliar code, including legacy one. Architectural thinking how to evolve legacy projects to meet industry standarts.Switching from ORM to SQL when appropriate, understanding MySQL performance.Using Linux for basic dev-ops and development. Using Git and git-flow.Estimating work and working in scum sprints, communicating effectively with a project manager and other sprint members.Working without much technical supervision when necessary, while keeping code maintainable and understandable.Code quality  over speed of development.Speaking in English.Bonus points for:Experience with continuous integration and continuous delivery.Experience with MSSQL.Familiar with Agile Kanban.We offer:An exciting opportunity to be part of a dynamic global organization and work with experienced professionals. You will discover a high performing, driven and supportive working culture and outstanding developmental possibilities to increase your potential.Confidentiality is guaranteed.Please send your CV in English. Only successful candidates will be contacted.
+	Department:
+	Product & Services
+        )
+
+    [4] => stdClass Object
+        (
+            [title] => Head of B2C
+            [location] => Vilnius
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=ea047e9c-6813-4a78-bb50-fb3d9bbe15cf
+            [date] => 06 April 2018
+            [description] => As the Head
+of B2C you will be building and excecuting a sales strategy for our sales and
+media teams to drive business development and increase profit. You would be overseeing
+and managing the following teams: sales, media buy and affiliates. 
+
+ 
+
+Key responsibilities:
+
+• To develop a strategy and key relationships with our current partners and continue to grow our client base in line with our company goals;
+
+• Identifying valuable emerging markets;
+
+• Accurately forecasting future sales and forming sales plans to adapt to constant shifts in the marketplace;
+
+• Serving as a business representative at major industry events, conferences, trade shows, and expositions;
+
+• Maximising company profit;
+
+• Foreseeing and avoiding stagnation in the marketplace;
+
+• Forming sales strategies to keep our company competitive and innovative;
+
+• Relentlessly create revenue growth through innovative strategies and meticulous execution to deliver step change improvements in performance;
+
+• Analyze campaigns for effectiveness and ROI, including understanding and defining marketing-sourced, marketing-influenced campaigns and revenue impact;
+
+• To develop talent within the organization, mentoring/developing team.
+
+
+
+ 
+
+
+
+Requirements:
+
+• Solid business acumen, and problem-solving skills;
+
+• Digital marketing experience (media campaigns, social media, PPC);
+
+• Previous experience in the affiliate business;
+
+• Ability to develop strong relationships at all levels of the organisation;
+
+• Strong leader and people manager;
+
+• Ability to compile and analyse performance data to develop metrics that support decision making;
+
+• 2-4 years of experience in sales or service strategies;
+
+• Ability to communicate complex ideas in a clear, concise manner both verbally and in writing;
+
+• Ability to work under pressure and to tight deadlines.
+
+• To demonstrate independent thinking and good clear judgement. Motivate sales teams to achieve targets. Logical and well organised with exceptional attention to detail; We OfferAn exciting opportunity to be part of a dynamic global organization and work with experienced professionals. You will discover a high performing, driven and supportive working culture and outstanding developmental possibilities to increase your potential.Confidentiality is guaranteed.Please send your CV in English. Only successful candidates will be contacted. 
+	Department:
+	B2C
+        )
+
+    [5] => stdClass Object
+        (
+            [title] => Head of B2B
+            [location] => Vilnius
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=102275ec-4af3-4f77-8c34-94c6438396f1
+            [date] => 06 April 2018
+            [description] => We are looking
+for an addition to our management team to lead our B2B services teams in
+Barcelona and Kaunas. Services include but are not limited to: search engine
+optimization, web site building and software services development & maintenance.
+
+Key responsibilities:
+
+• Build strong communication channels at all levels of organization, set proper expectations, provide clear status communications, and manage towards a growth plan;• Analyze the business and conduct deep dive analysis. Publish recommendations and action plans based on data;• Manage multiple projects concurrently with the daily production environment, such as competitive analysis, and sales analysis as required by the business;• Develop business opportunities in target markets using the sales team for support;• Build win-win relationships that may open doors with key partners, prospects and clients;• Provide input towards the product development’s direction. 
+
+Requirements:• Solid business acumen and problem-solving skills;• Ability to develop strong relationships at all levels of the organization;• Ability to compile and analyze performance data to develop metrics that support decision making;• 3-4 years’ experience developing and/or running product and/or services strategies or equivalent;• Experience with technically complex products in a digital marketing/SEO environment;• Ability to communicate complex ideas in a clear, concise manner both verbally and in writing;• Ability to work under pressure and to tight deadlines;• Strong analytical skills and usage of analytical tools such as: Microsoft Excel;• Ability to work with key stakeholders to reach mutually beneficial agreements;• Ability to prioritize and manage multiple responsibilities;• Ability to thrive in an ambiguous environment;• Strong project management skills; We OfferAn exciting opportunity to be part of a dynamic global organization and work with experienced professionals. You will discover a high performing, driven and supportive working culture and outstanding developmental possibilities to increase your potential.Confidentiality is guaranteed.Please send your CV in English. Only successful candidates will be contacted. 
+	Department:
+	B2B
+        )
+
+    [6] => stdClass Object
+        (
+            [title] => Head of Product & Services
+            [location] => Vilnius
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=60d8c63a-337f-4a3c-9d3c-8ea11465eccb
+            [date] => 06 April 2018
+            [description] =>  We are looking for an addition to our management team to the lead product and services division in our Vilnius office. The division includes but is not limited to: IT & Development, Data & Analytics, E-mail operation, Product and yield & optimization. The Product & Services department services
+other departments within the business such as content, B2C, B2B amongst others.
+
+Key responsibilities:
+
+• Implement business strategy, plans and procedures;• Set comprehensive goals for performance and growth;• Establish policies that promote company culture and vision;• Oversee daily operations (IT & development, data & analytics, e-mail operations, product and yield & optimization);• Lead employees to encourage maximum performance and dedication;• Evaluate performance by analyzing and interpreting data and metrics;• Write and submit reports to the COO in all matters of importance;• Planning, developing and implementing the operational strategy to meet organisational requirements and expectations within agreed budgets and timescales, producing an efficient, effective and scalable operating platform to meet the organisation‘s goals;• Provide support to senior management, including but not limited to preparing project documentation and monitoring key project deliverables;• Build relationships based on empathy, trust, and respect with team members, customers, providers and partners;• Define success, metrics, and runway for products;• Define and analyze metrics that inform the success of products.Requirements:• Understanding of business functions such as IT, development, data & analytics, yield & optimization, e-mail operations, etc.;• Demonstrable competency in strategic planning and business development;• Maximize efficiency in a fast-moving environment where creative solutions are appreciated;• Working knowledge of data analysis and performance/operation metrics;• Working knowledge of IT/Business infrastructure;• Proven experience of motivating others to deliver exceptional performance and long-term results;• Excellent written and spoken communication skills with experience of successfully influencing others, negotiating effectively and winning over audiences with compelling and persuasive presentations;• Built effective networks both internally and externally and create opportunities for others to work collaboratively.We OfferAn exciting opportunity to be part of a dynamic global organization and work with experienced professionals. You will discover a high performing, driven and supportive working culture and outstanding developmental possibilities to increase your potential.Confidentiality is guaranteed.Please send your CV in English. Only successful candidates will be contacted. 
+	Department:
+	Product & Services
+        )
+
+    [7] => stdClass Object
+        (
+            [title] => SEO Analyst
+            [location] => Vilnius
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=1553fa95-7d0b-4e3a-b35c-b839e88b90d5
+            [date] => 20 April 2018
+            [description] => The Digital Marketing Analyst is the key member of the team for analysing the effectiveness of the Stars Group SEO efforts and that of its competitors. Reporting into the Head of SEO, the Digital marketing Analyst is responsible for investigating trends and ranking issues, allowing the SEO strategy to be driven by analysis of all relevant data points.Key ResponsibilitiesProduction of regular business reports allowing key stakeholders to be kept up to date with SEO performance.Bespoke Investigations into ranking issues using all relevant data sources and building reports on these investigation with actionable insights.Analysis of the effectiveness of campaigns and BAU activities.Analysis of competitor activities and search engine performance.Maintenance and management of key SEO tools especially ranking reports and link reports.Analysis of inbound links to Stars Group web properties to assist Stars Group in defending itself from negative SEO tactics.Skills and CapabilitiesEssential:Data Analysis skills, especially database management and data science skills.Ability to analyse large datasets and derive coherent conclusions and trends from the data.Good coherent communication skills.Excellent reporting and presentation skills.Some knowledge of SEO and ranking factors.Excellent Excel skills.Ability to work with people with a wide variety of different skills, including editors, marketers, SEO specialists and developers.Fluent English.Self-motivated with the ability to work without constant supervision.Desirable:Knowledge of SEO platforms including Google Search Console, MajesticSEO, A hrefs, SEOMoz etc.Experience of doing keyword research.Experience of optimising and ranking websites.Experience of other online marketing channels.Experience and knowledge attribution models.Department:
+	Product & Services
+        )
+
+    [8] => stdClass Object
+        (
+            [title] => Programmatic Manager
+            [location] => Barcelona
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=fa461675-e790-4bc7-96f2-dd847b23da41
+            [date] => 22 April 2018
+            [description] => Job Description The Programmatic Manager will be responsible for implementation and optimization of approved advertising campaigns through programmatic advertising platforms across display, video, and mobile channels, reporting into the Department Head of Advertising Operations. Key Responsibilities Management of programmatic prospecting and retargeting campaigns across display, video and mobile to meet agreed KPIs including; CPA, CPcV, view ability and unique reach through proactive optimisation, reporting on performance and provision of insights to the business To build and manage the audience modelling strategy utilising the data management platform (DMP) to enable online targeting of high value users and the creation of “lookalike” prospecting campaigns To understand funnel conversion rates, identify channel effectiveness and distribute budget accordingly To manage the relationships with any 3rd party DSPs or programmatic agencies via self-service and managed-service Maintain strong working relationships with the sales, product, and ad ops teams, keeping them informed of any issues or anomalies that impact business To provide technical support when required – i.e troubleshooting, tag sufficiency, trafficking, pixel implementation Skills and Capabilities Essential + 3 years relevant experience within digital advertising and RTB Advanced English Experience working on programmatic media buying campaigns, and a proven record of success in optimising programmatic campaigns across various DSPs Experience working with Sizmek and/or other ad serving technologies Experience of implementation and monitoring of digital ad trafficking including request/receipt of advertising creativeExperience with tag management platforms (GTM & Signal) Experience with data management platforms (DMPs; BlueKai, Krux) Experience working with mobile measurement platforms (AppsFlyer/Adjust/Tune) Possess the ability to work effectively in a highly complex, diverse, changing environment Self-motivated and capable of working independently as well as part of a busy global team Being proactive and committed, continually focused on achieving positive results Excellent communication and presentation skills Excellent numeric skills and attention to detail Advanced Excel skills Desirable Relevant degree level qualification Fluent in a second language Company offers: An exciting opportunity to be part of a dynamic global organization and work with experienced professionals. You will discover a high performing, driven and supportive working culture and outstanding developmental possibilities to increase your potential.
+	Department:
+	B2B
+        )
+
+    [9] => stdClass Object
+        (
+            [title] => Programmatic Specialist
+            [location] => Barcelona
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=2844746f-3787-4338-a8de-d48ec7dd8ef2
+            [date] => 22 April 2018
+            [description] => Job Description  The ideal candidate will work within our Ad Operations team and the Programmatic Manager to launch and effectively manage data-driven campaigns through Programmatic platforms. The Programmatic Specialist should possess strong understanding of digital media, online advertising, audience segmentation, customer intelligence, research and reporting. Key Responsibilities Setup and traffic placements by agreed, budget, flight times and ad sizes Manage budgets and bids by tactics and strategies in selected demand side platforms Develop and optimize first and third party audience segments Work with media planners and strategists to ensure campaign remains on-target with audience Build, deploy, and test online tracking elements Provide constant, timely internal updates regarding campaigns AB test, recommend improvements and optimize live ad campaigns Establish and maintain relationships with publishers and 3rd party suppliers Effectively prioritize requests, troubleshoot and resolve issues Attend client meetings as necessary to translate campaign insights Keep up to date on all digital media trends Qualifications and ExperienceSkills and Capabilities Essential + 1 year of ad trafficking and campaign management experience Advanced English Good knowledge of the Digital Marketing Eco system, audience segmentations and strategies Good knowledge of buying methods; CPM, CPA, CPL, CPV Experience working with programmatic media buying platforms (MediaMath, DBM) Highly organized and with strong communication and presentation skills, both written and verbal Experience working with ad serving technologies Self-motivated and capable of working independently as well as part of a busy global team Desirable Relevant degree level qualification Fluent in a second language Knowledge of digital design, ad unit formats, and creative requirements for campaigns Experience with tag management platforms (GTM & Signal) Experience with data management platforms (DMPs; BlueKai, Krux) Experience working with mobile measurement platforms (AppsFlyer/Adjust/Tune)  Company offers: An exciting opportunity to be part of a dynamic global organization and work with experienced professionals. You will discover a high performing, driven and supportive working culture and outstanding developmental possibilities to increase your potential.
+	Department:
+	B2B
+        )
+
+    [10] => stdClass Object
+        (
+            [title] => Digital Marketing Coordinator
+            [location] => Barcelona
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=f691d65e-aaa2-43cf-afaf-752b2722abc9
+            [date] => 22 April 2018
+            [description] => Job Purpose     The Digital Marketing Coordinator will be dealing with day-to-day advertising campaign management activities across digital marketing channels.      As Digital Marketing Coordinator, you will help devise and execute cutting edge digital advertising campaigns to drive new customer awareness and subscriptions to our market leading products and brands.Key Responsibilities Manage and execute creative process underpinning the Digital advertising strategy Work with Digital      Marketing Managers at planning stage to understand campaign creative asset      requirements   Collaborate with      internal creative agency for creative assets requirements, instructing on      creative offers, creative formats and landing pages, and advise on creative      design and messages   Liaise with      internal creative agency, coordinate reception and storing of all campaign      creatives and send to appropriate stakeholders   Create and      maintain a campaign and promotions calendar, keep track of all offers,      promos and changes   Monitor campaign      creative and promotions performances, advise on testing new creative      messaging, landing pages and offers to optimise performance continuously   Provides      hands on assistance to marketing managers in relations to campaign      preparations and post campaign analysis  Keeping up to date with innovations in digital display advertising and better ways to improve campaign creative assets Skills and CapabilitiesDegree in business, preferably in Marketing and/or 2+ year experience in operative digital marketing role Passionate about digital advertising Analytical skills, comfortable with numbers Excellent communication and presentation skills Self-motivated, and capable of working independently as well as part of a busy global team Willing to take initiative, ability to innovate and think creatively Is able to work effectively in a highly complex, diverse, changing environment Adapts and copes successfully with changing circumstances Excellent Excel skills Ability to develop business relationships and clearly present information to senior stakeholders Fluent in English Knowledge of online gaming industryDepartment:
+	B2B
+        )
+
+    [11] => stdClass Object
+        (
+            [title] => Sporstbook PPC Manager
+            [location] => Barcelona
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=22b9105b-9bf1-40c6-9ae7-b2f4d0daad79
+            [date] => 22 April 2018
+            [description] => Job Purpose  The Sportsbook PPC Manager will be responsible for helping to develop the Sportsbook paid search approach and campaigns, and after Group management approval, assist in the execution of these tactics via multiple search engines and markets with the aim of providing a positive ROI through paid search campaigns. You will be dealing with day-to-day advertising campaign management activities across paid search channels, helping to develop and manage implementation of desktop and mobile advertising campaigns for all our apps, based on direction and guidelines set by Group management.Day-to-Day account optimisation: Monitor budget and adjust bids to gain better ROI; Write attractive and concise copy for adverts; landing page review; impression share and quality score analysis and so on Help building and maintaining positive relationships with country managers, key stakeholders from the Brand and colleagues. Compile and report on campaign effectiveness to Senior Manager, including competitive landscape, KPIs and recommendations on opportunities for growth Gathering actionable data from various sources and report to the Senior Manager in order to help ensure consistent and continual optimisation of the sports betting paid search campaigns. Generation and dissemination of management reporting to ensure that the wider team is aware of campaign performance trends. Work closely with team members to assist in the delivery of  a collaborative strategy Close liaison with natural search specialists to help maximise the Group’s total opportunity from search. Manage the on-going process of establishing and after Group management approval, implementing across the business best practice guidance on a wide number of areas relating to paid search marketing. Manage the day to day relationships with search engine providers in order to stay up to date on upcoming changes and trendsSkills and Capabilities Essential Must be passionate about Search Marketing Must have technical and analytical skills (including experience with Analytics tools) Proven experience in managing complex PPC campaigns with a history of driving ROI for the business Excellent communication and Excel skills Experience in Sportsbook Ability to conceptualise, scope and execute projects to strict deadlines Good team player with excellent inter-personal skills Proven ability to work to strict deadlines coupled with excellent attention to detail Produces outstanding results both professionally and personally by being proactive and committed. Continually focuses on achieving positive results contributing to our business success Managing Complexity: Is able to work effectively in a highly complex, diverse, changing environment. Adapts well to and is energized by change whilst maintaining focus on key business goals and personal objectives. Goal setting/short term planning: Achieves results by setting goals using quality planning, analysis and decision making. Adapts and copes successfully with changing circumstances. Innovation: Embraces creativity, innovation and is open to new ideas. Innovates to improve current working practices/products/technologies to provide business opportunities and results. Have courage: Is proactive, takes initiatives, challenge the status quo and generally seek improvement in everything you do Strive for Excellence: Find ways to do things better and smarter and never compromise on quality Show Passion: Always have a positive can-do attitude; Celebrate successDesirable Fluent in a second/third language Experience working with bid management platforms Our Values Focus on the customer Work as a team Strive for excellence Have courage Show passion
+        )
+
+    [12] => stdClass Object
+        (
+            [title] => Ad Ops Specialist
+            [location] => Barcelona
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=ea473e5d-42e0-4604-8ba0-df2882cee56b
+            [date] => 22 April 2018
+            [description] => Job Description  The Ad Ops Specialist will be dealing with day-to-day advertising campaign trafficking activities across display, video and mobile marketing channels, reporting into the Senior Manager, Advertising Operations. The ideal candidate will have a background in digital ad operations and a familiarity with the programmatic ecosystem. Key Responsibilities Upload and traffic creatives received by our internal studio or external suppliers Ensure all creatives, campaigns and placements follow appropriate naming convention Create and traffic new campaigns to high standards Deliver tags and tracking links to both internal teams and 3rd party vendors Troubleshoot Pixels and Third Party Tags Schedule, generate and deliver reports to all stakeholders across the businessSkills and Capabilities Essential 1+ years' experience within digital advertising Strong English language both verbally and in writing Knowledge of the online advertising industry, advertising server technologies and metrics for advertising efficiency Experience working within Ad Ops department Experience working with Sizmek and/or other advertising server technology Excellent communication and presentation skills Excellent numeric skills, logical thinking combined with great attention to detail Ability to adapt in a highly complex and changing environment Ability to prioritize and organize workload Self-motivated and results driven Capable of working independently as well as part of a busy global team Advanced Excel skillDesirable  Experience working with mobile measurement platforms (AppsFlyer/Adjust/Tune) HTML, CSS, JavaScript Knowledge of RTB related issues (DSP/SSP) Our Values Focus on the customer Work as a team Strive for excellence Have courage Show passionCompany offers: An exciting opportunity to be part of a dynamic global organization and work with experienced professionals. You will discover a high performing, driven and supportive working culture and outstanding developmental possibilities to increase your potential.
+        )
+
+    [13] => stdClass Object
+        (
+            [title] => SEO Manager
+            [location] => Barcelona
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=6dad593c-e790-45be-9011-286902495d12
+            [date] => 24 April 2018
+            [description] => iBus Media is looking for a SEO Manager who will be able to develop and drive the Search Engine Optimization (SEO) within the organisation and partners with internal and external teams to achieve results. ResponsibilitiesUnderstand both on-site and off-site SEO practices.Develop and execute SEO strategies and campaigns Can create a keyword platform / semantic core for a new project.Can analyze and sort big amounts of dataCan identify the value of internet assetDevelop and execute link-building activities Perform regular SEO analysis, present recommendations for optimization of content and architecture and implement in cooperation with web development and country managers Monitor and report on progress and developments for sitesCooperate with co-workers and external partners to ensure SEO best practices are metRequirements:Passionate about SEO and Digital MarketingDemonstrable detailed understanding of SEO principles and guidelines requiredExperience with various SEO tools.Great understanding of website architectureFollow industry news and ready to implement new practices for ongoing projectsReady to take risks and responsibilities for your decisionsSkill with computers and proficiency in Microsoft Windows, Word and Excel requiredA fluent level of verbal and written English skills is expected Analytical thinkingCompany offers:An exciting opportunity to be part of a dynamic global organization and work with experienced professionals. You will discover a high performing, driven and supportive working culture and outstanding developmental possibilities to increase your potential. 
+	Department:
+	B2B
+        )
+
+    [14] => stdClass Object
+        (
+            [title] => Head of B2B
+            [location] => Barcelona
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=8657248d-02ed-4fb4-968d-40c8870f0f39
+            [date] => 25 April 2018
+            [description] => We are looking
+for an addition to our management team to lead our B2B services teams in
+Barcelona and Kaunas. Services include but are not limited to: search engine
+optimization, web site building and software services development & maintenance.
+
+Key responsibilities:
+
+• Build strong communication channels at all levels of organization, set proper expectations, provide clear status communications, and manage towards a growth plan;• Analyze the business and conduct deep dive analysis. Publish recommendations and action plans based on data;• Manage multiple projects concurrently with the daily production environment, such as competitive analysis, and sales analysis as required by the business;• Develop business opportunities in target markets using the sales team for support;• Build win-win relationships that may open doors with key partners, prospects and clients;• Provide input towards the product development’s direction. 
+
+Requirements:• Solid business acumen and problem-solving skills;• Ability to develop strong relationships at all levels of the organization;• Ability to compile and analyze performance data to develop metrics that support decision making;• 3-4 years’ experience developing and/or running product and/or services strategies or equivalent;• Experience with technically complex products in a digital marketing/SEO environment;• Ability to communicate complex ideas in a clear, concise manner both verbally and in writing;• Ability to work under pressure and to tight deadlines;• Strong analytical skills and usage of analytical tools such as: Microsoft Excel;• Ability to work with key stakeholders to reach mutually beneficial agreements;• Ability to prioritize and manage multiple responsibilities;• Ability to thrive in an ambiguous environment;• Strong project management skills; We OfferAn exciting opportunity to be part of a dynamic global organization and work with experienced professionals. You will discover a high performing, driven and supportive working culture and outstanding developmental possibilities to increase your potential.Confidentiality is guaranteed.Please send your CV in English. Only successful candidates will be contacted. 
+	Department:
+	B2B
+        )
+
+    [15] => stdClass Object
+        (
+            [title] => Head of B2C
+            [location] => Barcelona
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=c4544e54-b8b2-422b-b84c-4f7785a772a7
+            [date] => 25 April 2018
+            [description] => As the Head
+of B2C you will be building and excecuting a sales strategy for our sales and
+media teams to drive business development and increase profit. You would be overseeing
+and managing the following teams: sales, media buy and affiliates. 
+
+ 
+
+Key responsibilities:
+
+• To develop a strategy and key relationships with our current partners and continue to grow our client base in line with our company goals;
+
+• Identifying valuable emerging markets;
+
+• Accurately forecasting future sales and forming sales plans to adapt to constant shifts in the marketplace;
+
+• Serving as a business representative at major industry events, conferences, trade shows, and expositions;
+
+• Maximising company profit;
+
+• Foreseeing and avoiding stagnation in the marketplace;
+
+• Forming sales strategies to keep our company competitive and innovative;
+
+• Relentlessly create revenue growth through innovative strategies and meticulous execution to deliver step change improvements in performance;
+
+• Analyze campaigns for effectiveness and ROI, including understanding and defining marketing-sourced, marketing-influenced campaigns and revenue impact;
+
+• To develop talent within the organization, mentoring/developing team.
+
+
+
+ 
+
+
+
+Requirements:
+
+• Solid business acumen, and problem-solving skills;
+
+• Digital marketing experience (media campaigns, social media, PPC);
+
+• Previous experience in the affiliate business;
+
+• Ability to develop strong relationships at all levels of the organisation;
+
+• Strong leader and people manager;
+
+• Ability to compile and analyse performance data to develop metrics that support decision making;
+
+• 2-4 years of experience in sales or service strategies;
+
+• Ability to communicate complex ideas in a clear, concise manner both verbally and in writing;
+
+• Ability to work under pressure and to tight deadlines.
+
+• To demonstrate independent thinking and good clear judgement. Motivate sales teams to achieve targets. Logical and well organised with exceptional attention to detail; We OfferAn exciting opportunity to be part of a dynamic global organization and work with experienced professionals. You will discover a high performing, driven and supportive working culture and outstanding developmental possibilities to increase your potential.Confidentiality is guaranteed.Please send your CV in English. Only successful candidates will be contacted. 
+	Department:
+	B2C
+        )
+
+    [16] => stdClass Object
+        (
+            [title] => Outreach Specialist
+            [location] => Barcelona, Spain
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=b529ca46-bd6d-479a-8cce-61f01d16b0b5
+            [date] => 02 May 2018
+            [description] => We at iBus Media
+are looking for enthusiastic and highly
+motivated individuals to fill available Outreach Specialist positions in our ever-expanding Content Marketing and Outreach Department (CMOD). All Outreach Specialist will work directly under the supervision of the Outreach Manager to develop and implement outreach strategies in order to scale existing content marketing and outreach efforts. If you are looking to join a talented team and are looking for an opportunity for professional growth please send us your CV and cover letter (in English) with subject “Outreach
+Specialist“. 
+ Duties and Responsibilities: B2B Outreach Suggest and help
+implement outreach strategy improvements Outreach partner
+portfolio development Ensure content marketing quality standards and guidelines are being implemented.  Essential Skills: B2B outreach and/or sales experience Nordic or german language to a full professional proficiency English language to a full professional proficiency A passion for connecting with people and all things internet.
+ Desired Skills: Inbound marketing
+(SEO) knowledge or experience A good understanding of SEO and
+web positioning metrics Experience with web analytic software such as Google Analytics, Open site Explorer, Majestic and SEMrushContent marketing experience   
+	Department:
+	B2B
+        )
+
+    [17] => stdClass Object
+        (
+            [title] => SEO Analyst
+            [location] => Barcelona
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=ba5d9bba-0ad2-4033-a09b-5fcb959188ea
+            [date] => 02 May 2018
+            [description] => The SEO Analyst is the key member of the team for analysing the effectiveness of the Stars Group SEO efforts and that of its competitors. Reporting into the Head of SEO, the SEO Analyst is responsible for investigating trends and ranking issues, allowing the SEO strategy to be driven by analysis of all relevant data points.Key Responsibilities Production of regular business reports allowing key stakeholders to be kept up to date with SEO performance. Bespoke Investigations into ranking issues using all relevant data sources and building reports on these investigation with actionable insights. Analysis of the effectiveness of campaigns and BAU activities. Analysis of competitor activities and search engine performance. Maintenance and management of key SEO tools especially ranking reports and link reports. Analysis of inbound links to Stars Group web properties to assist Stars Group in defending itself from negative SEO tactics. Skills and Capabilities          Data Analysis skills, especially database management and data science skills. Ability to analyse large datasets and derive coherent conclusions and trends from the data. Good coherent communication skills. Excellent reporting and presentation skills. Some knowledge of SEO and ranking factors. Excellent Excel skills. Ability to work with people with a wide variety of different skills, including editors, marketers, SEO specialists and developers. Fluent English. Self-motivated with the ability to work without constant supervision.  Desirable: Knowledge of SEO platforms including Google Search Console, MajesticSEO, A hrefs, SEOMoz etc. Experience of doing keyword research. Experience of optimising and ranking websites. Experience of other online marketing channels. Experience and knowledge attribution models. Company offers: An exciting opportunity to be part of a dynamic global organization and work with experienced professionals. You will discover a high performing, driven and supportive working culture and outstanding developmental possibilities to increase your potential.
+	Department:
+	B2B
+        )
+
+    [18] => stdClass Object
+        (
+            [title] => Account Manager
+            [location] => Barcelona
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=106985f7-509a-4c41-a318-de2fbdc14fd7
+            [date] => 14 May 2018
+            [description] => Job Purpose:The Account Manager will build and lead Paid Social, Display and PPC execution in different platforms. Is responsible for managing the Groups customer acquisition, reactivation and brand exposure through Social, Search and Media platforms. This person will participate in building world class campaigns; plan, execute and report the marketing activities for PSP in line with the Group management approved Digital Marketing strategy and budget.This person will recommend, test and implement new advertising technology relevant to drive PSP activities forward for the business and apply industry best practices to help deliver integrated digital campaigns.Key Responsibilities:• Plan, negotiate, buy, develop and manage global digital marketing campaigns with a large panel of websites and mobile applications, directly with media owners, through social platforms, search and programmatic platforms and through our mobile media agency (Standard display, Mobile, Digital Video, VOD);• Manage day to day relationships with search engine providers, Social media platforms and Display networks in order to stay up to date on upcoming changes and trends;• Control assigned budgets and devise ways of spending efficiently;• Hands on media planning, media buying and media analysis, the role involves constant optimization of global and local campaigns to meet CPA based goals;• Define and implement marketing strategies to promote all our web properties (mobile and desktop) : familiar with prospecting, remarketing strategies as well as existing player reengagement strategies;• Own campaign performance and report on performance;• Bid management - ensure bids are successfully made to achieve optimum placing of our products online;• Test creative messaging, landing pages and campaigns to optimise performance continuously;• Compile and report on campaign effectiveness, including competitive landscape, KPIs and recommendations on opportunities for growth;• Gathering actionable data from various sources and report to different stakeholders to help ensuring consistent and continual optimization of paid search campaigns;• Use data to drive decision making process;• Collaborate with teams across the company to ideate, influence and implement initiatives that will promote the mobile App and desktop software to current and potential customers;• Provide recommendations and execute strategies for keyword opportunities, campaign structuring, targeting, day partying, and other facets of paid search in accordance with Business Units goals;• Manage and execute creative process underpinning the advertising strategy;• Keeping up to date with innovations in digital display advertising and better ways of targeting mainstream gambling audiences.Skills and Capabilities:• Deep knowledge of digital marketing across Display Medias, PPC, Facebook, Twitter and emerging Social platforms;• Strong background on Mobile Marketing;• Proven experience in managing complex PPC campaigns with a history of driving ROI for the business;• Relevant Digital Marketing experience, and/or Global Marketing Campaigns execution;• Knowledge of UI/UX;• History of building and managing successful internal and external client and partner relationships;• Advanced negotiation skills;• Proven knowledge of budget management for execution of, retargeting, mobile and social media marketing campaigns;• Excellent communication, project management and presentation skills;• Excellent numeric skills and attention to detail;• Ability to effectively multi-task in a deadline driven atmosphere;• Ability to clearly and effectively articulate thoughts and points;• Committed with a continuous focus on Group goals and achieving positive results;• Capacity to work effectively in a highly complex, diverse, changing environment.Company offers:An exciting opportunity to be part of a dynamic global organization and work with experienced professionals. You will discover a high performing, driven and supportive working culture and outstanding developmental possibilities to increase your potential.
+        )
+
+    [19] => stdClass Object
+        (
+            [title] => Analyst Specialist
+            [location] => Vilnius
+            [apply_link] => https://ibusmedialimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=484bd14d-60ff-4c4f-8887-d4bdceae0e53
+            [date] => 18 May 2018
+            [description] => Analyst Specialist will be responsible for executing and analysis of conversion rate optimization strategy. You will look to analyze web properties based on heuristics and data, create hypotheses. You will also be the key point in setting up Google Analytics, site usage reports and third-party tools to forecast possible outcomes and take preventive actions.Responsibilities:Work within the Optimization & Conversion Team to deliver and optimize top class campaigns including, but not limited to:• Research proactively for new optimization opportunities using digital analytics and best practice online;• Analyze websites to identify issues and come up with plans to solve them;• Analyze and report test results;• Stay on top of the latest trends in iGaming industry.Requirements:• Strong experience in working in an online / ecommerce / high traffic business;• Understanding / experience in online poker, casino, sportsbook and iGaming industry would be considered as an advantage;• Experienced in using digital analytics, such as Google Analytics (Google Analytics certificate);• Experience with tag management software, such as Google Tag Manager;• Strong understanding of capabilities, working with other Google products, such as Analytics goal setup, variable differences and third-party tool setups.We offer:An exciting opportunity to be part of a dynamic global organization and work with experienced professionals. You will discover a high performing, driven and supportive working culture and outstanding developmental possibilities to increase your potential.Confidentiality is guaranteed.Please send your CV in English. Only successful candidates will be contacted.
+	Department:
+	Product & Services
+        )
+
+)
+

@@ -1,0 +1,29 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "title": "iBus jobs",
+    "description": "List of currently available jobs @ iBus Media",
+    "type": "object",
+    "properties": {
+        "title": {
+            "description": "job title",
+            "type": "string"
+        },
+        "location": {
+            "description": "office location",
+            "type": "string"
+        },
+        "date": {
+            "description": "date",
+            "type": "string"
+        },
+        "content": {
+            "description": "job decription",
+            "type": "string"
+        },
+        "apply_link": {
+            "description": "link to apply for job",
+            "type": "string"
+        } 
+    },
+    "required": ["title", "location", "apply_link"]
+}
