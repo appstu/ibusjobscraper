@@ -78,3 +78,22 @@ It returns JSON array of objects:
      ...
      ]
  
+### Tests
+ 
+Basic PHP Unit tests are provided and can be run by command
+`./vendor/bin/simple-phpunit`
+
+Tests for controller:
+- Web application is working
+- API endpoint returning decodable JSON
+
+Tests for commands:
+- Scrape Jobs command is 
+  - working
+  - retrieves content for parsing
+  - scraped jobs were saved
+  
+- Validate JSON command is 
+  - working
+  - jobs loaded from storage
+  - JSON is valid 
